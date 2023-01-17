@@ -20,8 +20,9 @@
 - [m1 Mac使用node版本切换工具 n](https://www.jianshu.com/p/a927bcecdbc0)
 
 
-![测试1](https://github.com/SSDWGG/StaticResource/blob/main/IMG_1947.DNG)
-![测试2](https://github.com/SSDWGG/StaticResource/blob/main/happyNewYear.MP4)
+![测试1](./IMG_1944.HEIC)
+![测试1](./IMG_1947.DNG)
+![测试2](./happyNewYear.MP4)
 
 <!-- <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
