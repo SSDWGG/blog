@@ -5,7 +5,8 @@
 ## article
 ### js
 - [js概念基础](./js/jsBasics.md)
-- [手写数组方法](./js/jsBasics.md)
+- [手写数组方法](./js/Array.md)
+- [数组去重](./js/ArrayRemoveDuplication.md)
 ### vue
 待产出...
 
