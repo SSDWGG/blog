@@ -28,6 +28,7 @@ function distinct(array) {
 ```
 const distinct = (arr) => arr.filter((item, index)=> arr.indexOf(item) === index)
 ```
+
 ### 使用reduce去重对象数组
 ```
 const dedup = (data, getKey = () => { }) => {
