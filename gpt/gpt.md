@@ -41,7 +41,7 @@ ChatGPT 以其强大的信息整合和对话能力惊艳了全球，在自然语
 
 ```
 <!-- 让gpt画一幅画 -->
-curl https://api.openai.com/v1/images/generations   -H 'Content-Type: application/json'   -H 'Authorization: Bearer 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'   -d '{
+curl https://api.openai.com/v1/images/generations   -H 'Content-Type: application/json'   -H 'Authorization: Bearer 你的秘钥 openAI API Key'   -d '{
   "prompt": "A thor",
   "n": 2,
   "size": "1024x1024"
