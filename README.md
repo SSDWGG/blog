@@ -4,12 +4,13 @@
 ### js
 - [js概念基础](./js/jsBasics.md)
 - [手写数组方法](./js/Array.md)
+- [对象方法](./js/Object.md)
 - [数组去重](./js/ArrayRemoveDuplication.md)
 - [常用正则](./js/reg.md)
 - [常用util函数](./js/util.md)
 - [字符串常用方法整理](./js/String.md)
 ### vue
-待产出...
+待产出... 
 
 ### css
 - [css整理](./css/css.md)
@@ -20,7 +21,7 @@
 
 ### git
  - [git收集](./git/git.md)
-### 我的服务器与nginx命令
+### Some command
  - [nginx](./nginx/nginx.md)
 
 ## algorithm
@@ -35,6 +36,8 @@
 
 - [体验爆火的AI chatGPT](./gpt/gpt.md)
 
+- [mac软件合集](https://github.com/jaywcjlove/awesome-mac)
+  
 - [node版本切换工具 n](./n/n.md)
   
 - [前端学习之旅](https://interview.poetries.top)
