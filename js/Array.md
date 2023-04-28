@@ -1,4 +1,7 @@
 # 手写数组方法
+
+对于es6这些数组方法，如果内部存储的是值类型的数据，方法是不会改变原数组的，如果是引用类型的数据是会改变原数组的。
+
 ### 实现forEach方法
 ```
 Array.prototype.myForEach = function(callback, context=window) {

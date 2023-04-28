@@ -81,7 +81,9 @@ Pwd 查看当前路径
 
 Mac 取消备份限速 sudo sysctl debug.lowpri_throttle_enabled=0
 
-## vue项目在非根目录下的部署
+## 项目部署二级目录nginx配置
+
+参考  https://blog.csdn.net/weixin_35755434/article/details/113580264
 
 假设放在了/wgg的目录下
 
@@ -92,6 +94,7 @@ Mac 取消备份限速 sudo sysctl debug.lowpri_throttle_enabled=0
 在 vue router 中配置: base: '/wgg/'
 
 在 nginx 中配置
+
 
 ```
 location ^~/wgg{

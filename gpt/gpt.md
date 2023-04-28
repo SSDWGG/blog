@@ -13,7 +13,6 @@ ChatGPT 以其强大的信息整合和对话能力惊艳了全球，在自然语
 - [开始探索 ChatGPT]
 
 
-
 1.注册 Chat GPT 账号 --- [chatGPT网址链接](https://chat.openai.com)
 
 2.完成 ChatGPT 手机号验证 --- [短信接码平台网站 sms-activate.org网址链接](https://sms-activate.org/)

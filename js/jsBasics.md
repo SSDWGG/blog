@@ -95,3 +95,11 @@ function create(fn, ...args) {
 
 
 
+session，localstorage存储的kv对都是string，对于boolean的属性需要做一定的转换
+
+js赋值语句的返回值就是值本身
+
+
+
+
+
