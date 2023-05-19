@@ -14,7 +14,7 @@ nginx -v
 
 启动 nginx
 
-配置 nginx vim nginx.conf
+配置nginx  vim nginx.conf
 
 #资源访问失败后定向到 index.html
 try_files $uri $uri/ /index.html;

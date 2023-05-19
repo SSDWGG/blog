@@ -93,13 +93,15 @@ function create(fn, ...args) {
 
 <!-- ## 实现call函数 -->
 
-
-
 session，localstorage存储的kv对都是string，对于boolean的属性需要做一定的转换
 
 js赋值语句的返回值就是值本身
 
 
+闭包
+
+在编译过程中，如果 JavaScript 引擎判断到一个闭包，也会在堆空间创建换一个“closure(fn)”的对象（这是一个内部对象，JavaScript 是无法访问的），用来保存闭包中的变量。所以闭包中的变量是存储在“堆空间”中的。
+JavaScript 引擎需要用栈来维护程序执行期间上下文的状态
 
 
 

@@ -23,6 +23,7 @@
  - [git收集](./git/git.md)
 ### Some command
  - [nginx](./nginx/nginx.md)
+ - [npm](./npm/npm.md)
 
 ## algorithm
 - [十大基础排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
