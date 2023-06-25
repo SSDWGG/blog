@@ -1,44 +1,20 @@
-# Ryw Blog
-<!-- github cannot recognize binary files -->
-## article
-### js
-- [js概念基础](./js/jsBasics.md)
-- [手写数组方法](./js/Array.md)
-- [对象方法](./js/Object.md)
-- [数组去重](./js/ArrayRemoveDuplication.md)
-- [常用正则](./js/reg.md)
-- [常用util函数](./js/util.md)
-- [字符串常用方法整理](./js/String.md)
-### vue
-待产出... 
+# blog
 
-### css
-- [css整理](./css/css.md)
+A static site base on [dumi](https://d.umijs.org).
 
-- [css-flex教程阮一峰](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+## Development
 
-- [一些不错的css动效](https://goatchen.coding.net/public/html-css/HTML-CSS/git/files)
+```bash
+# install dependencies
+$ yarn install
 
-### git
- - [git收集](./git/git.md)
-### Some command
- - [nginx](./nginx/nginx.md)
- - [npm](./npm/npm.md)
+# start dev server
+$ yarn start
 
-## algorithm
-- [十大基础排序算法](https://www.cnblogs.com/onepixel/articles/7674659.html)
-- [动态规划和最长递增子序列问题](./js/LIS.md)
+# build docs
+$ yarn run build
+```
 
-## Practical tutorials & tools🔧
+## LICENSE
 
-- [科学上网vpn🪜](./vpn/vpn.md)
-
-- [Markdown语法教程](https://simimi.cn/note/markdown-basic-syntax)
-
-- [体验爆火的AI chatGPT](./gpt/gpt.md)
-
-- [mac软件合集](https://github.com/jaywcjlove/awesome-mac)
-  
-- [node版本切换工具 n](./n/n.md)
-  
-- [前端学习之旅](https://interview.poetries.top)
+MIT
