@@ -4,10 +4,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useOutlet, history } from 'dumi';
 
-import nprogress from '/Users/renshuaiweidemac/Desktop/blog/node_modules/nprogress';
+import nprogress from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/node_modules/nprogress';
 import './nprogress.css';
 
-import { SiteContext } from '/Users/renshuaiweidemac/Desktop/blog/node_modules/dumi/dist/client/theme-api/context.js';
+import { SiteContext } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/node_modules/dumi/dist/client/theme-api/context.js';
 import { demos, components } from '../meta';
 import { locales } from '../locales/config';
 

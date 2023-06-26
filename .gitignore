@@ -6,4 +6,5 @@ node_modules/
 .DS_Store
 .husky/_
 project.private.config.json
-.dumi/tmp*
+.dumi/tmp/*
+.dumi/tmp-production/*
