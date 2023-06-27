@@ -1,4 +1,4 @@
-# 切换node版本
+# n
 
 
 [了解如何下载 n](https://www.jianshu.com/p/a927bcecdbc0)

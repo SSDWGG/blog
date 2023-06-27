@@ -1,4 +1,4 @@
-# EnvironmentConfiguration
+# 软件环境🌏
 
 - [mac软件合集](https://github.com/jaywcjlove/awesome-mac)
 
@@ -9,4 +9,8 @@
 - [部分常用命令](./environment-configuration/nginx)
 
 - [npm](./environment-configuration/npm)
+
+- [科学上网](./environment-configuration/vpn)
+
+- [gpt注册](./environment-configuration/gpt)
   

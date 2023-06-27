@@ -1,4 +1,4 @@
-# jsBasic
+# js
 
 ## 类型检测
   关于类型检测，首先我们知道JS有7种基本数据类型：Undefined、Null、Boolean、Number、String、Symbol、BigInt

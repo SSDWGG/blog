@@ -1,7 +1,6 @@
-# 部分常用命令
+# nginx
 
-## nginx
-
+## 我的常用命令（简易版）
 whereis nginx
 
 yum install -y nginx
