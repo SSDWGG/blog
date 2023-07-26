@@ -9,19 +9,34 @@ import { demos as dm4, frontmatter as fm4, toc as toc4, texts as txt4 } from '/U
 import { demos as dm5, frontmatter as fm5, toc as toc5, texts as txt5 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/EnvironmentConfiguration/vpn/index.md?type=meta';
 import { demos as dm6, frontmatter as fm6, toc as toc6, texts as txt6 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/deepCopy/deepCopy.md?type=meta';
 import { demos as dm7, frontmatter as fm7, toc as toc7, texts as txt7 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/EnvironmentConfiguration/n/index.md?type=meta';
-import { demos as dm8, frontmatter as fm8, toc as toc8, texts as txt8 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/EnvironmentConfiguration/index.md?type=meta';
-import { demos as dm9, frontmatter as fm9, toc as toc9, texts as txt9 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Object/Object.md?type=meta';
-import { demos as dm10, frontmatter as fm10, toc as toc10, texts as txt10 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/String/String.md?type=meta';
-import { demos as dm11, frontmatter as fm11, toc as toc11, texts as txt11 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Array/Array.md?type=meta';
-import { demos as dm12, frontmatter as fm12, toc as toc12, texts as txt12 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/util/util.md?type=meta';
-import { demos as dm13, frontmatter as fm13, toc as toc13, texts as txt13 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/LIS/LIS.md?type=meta';
-import { demos as dm14, frontmatter as fm14, toc as toc14, texts as txt14 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Reg/reg.md?type=meta';
-import { demos as dm15, frontmatter as fm15, toc as toc15, texts as txt15 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/css/index.md?type=meta';
-import { demos as dm16, frontmatter as fm16, toc as toc16, texts as txt16 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/vue/index.md?type=meta';
-import { demos as dm17, frontmatter as fm17, toc as toc17, texts as txt17 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/index.md?type=meta';
-import { demos as dm18, frontmatter as fm18, toc as toc18, texts as txt18 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/index.md?type=meta';
-import { demos as dm19, frontmatter as fm19, toc as toc19, texts as txt19 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/UI/index.md?type=meta';
-import { demos as dm20, frontmatter as fm20, toc as toc20, texts as txt20 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/index.md?type=meta';
+import { demos as dm8, frontmatter as fm8, toc as toc8, texts as txt8 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/index.md?type=meta';
+import { demos as dm9, frontmatter as fm9, toc as toc9, texts as txt9 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/EnvironmentConfiguration/index.md?type=meta';
+import { demos as dm10, frontmatter as fm10, toc as toc10, texts as txt10 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/algorithm/LIS/LIS.md?type=meta';
+import { demos as dm11, frontmatter as fm11, toc as toc11, texts as txt11 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/10.md?type=meta';
+import { demos as dm12, frontmatter as fm12, toc as toc12, texts as txt12 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/11.md?type=meta';
+import { demos as dm13, frontmatter as fm13, toc as toc13, texts as txt13 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Object/Object.md?type=meta';
+import { demos as dm14, frontmatter as fm14, toc as toc14, texts as txt14 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/String/String.md?type=meta';
+import { demos as dm15, frontmatter as fm15, toc as toc15, texts as txt15 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/1.md?type=meta';
+import { demos as dm16, frontmatter as fm16, toc as toc16, texts as txt16 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/2.md?type=meta';
+import { demos as dm17, frontmatter as fm17, toc as toc17, texts as txt17 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/3.md?type=meta';
+import { demos as dm18, frontmatter as fm18, toc as toc18, texts as txt18 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/4.md?type=meta';
+import { demos as dm19, frontmatter as fm19, toc as toc19, texts as txt19 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/5.md?type=meta';
+import { demos as dm20, frontmatter as fm20, toc as toc20, texts as txt20 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/6.md?type=meta';
+import { demos as dm21, frontmatter as fm21, toc as toc21, texts as txt21 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/7.md?type=meta';
+import { demos as dm22, frontmatter as fm22, toc as toc22, texts as txt22 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/8.md?type=meta';
+import { demos as dm23, frontmatter as fm23, toc as toc23, texts as txt23 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/InterviewTips/9.md?type=meta';
+import { demos as dm24, frontmatter as fm24, toc as toc24, texts as txt24 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/algorithm/index.md?type=meta';
+import { demos as dm25, frontmatter as fm25, toc as toc25, texts as txt25 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Array/Array.md?type=meta';
+import { demos as dm26, frontmatter as fm26, toc as toc26, texts as txt26 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/promise/index.md?type=meta';
+import { demos as dm27, frontmatter as fm27, toc as toc27, texts as txt27 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/util/util.md?type=meta';
+import { demos as dm28, frontmatter as fm28, toc as toc28, texts as txt28 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/Reg/reg.md?type=meta';
+import { demos as dm29, frontmatter as fm29, toc as toc29, texts as txt29 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/taro/index.md?type=meta';
+import { demos as dm30, frontmatter as fm30, toc as toc30, texts as txt30 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/css/index.md?type=meta';
+import { demos as dm31, frontmatter as fm31, toc as toc31, texts as txt31 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/vue/index.md?type=meta';
+import { demos as dm32, frontmatter as fm32, toc as toc32, texts as txt32 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/js/index.md?type=meta';
+import { demos as dm33, frontmatter as fm33, toc as toc33, texts as txt33 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndCode/index.md?type=meta';
+import { demos as dm34, frontmatter as fm34, toc as toc34, texts as txt34 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/UI/index.md?type=meta';
+import { demos as dm35, frontmatter as fm35, toc as toc35, texts as txt35 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/index.md?type=meta';
 
 export { components } from './atoms';
 export { tabs } from './tabs';
@@ -75,83 +90,173 @@ export const filesMeta = {
     texts: txt7,
     demos: dm7,
   },
-  'docs/EnvironmentConfiguration/index': {
+  'docs/FrontEndCode/InterviewTips/index': {
     frontmatter: fm8,
     toc: toc8,
     texts: txt8,
     demos: dm8,
   },
-  'docs/FrontEndCode/js/Object/Object': {
+  'docs/EnvironmentConfiguration/index': {
     frontmatter: fm9,
     toc: toc9,
     texts: txt9,
     demos: dm9,
   },
-  'docs/FrontEndCode/js/String/String': {
+  'docs/FrontEndCode/algorithm/LIS/LIS': {
     frontmatter: fm10,
     toc: toc10,
     texts: txt10,
     demos: dm10,
   },
-  'docs/FrontEndCode/js/Array/Array': {
+  'docs/FrontEndCode/InterviewTips/10': {
     frontmatter: fm11,
     toc: toc11,
     texts: txt11,
     demos: dm11,
   },
-  'docs/FrontEndCode/js/util/util': {
+  'docs/FrontEndCode/InterviewTips/11': {
     frontmatter: fm12,
     toc: toc12,
     texts: txt12,
     demos: dm12,
   },
-  'docs/FrontEndCode/js/LIS/LIS': {
+  'docs/FrontEndCode/js/Object/Object': {
     frontmatter: fm13,
     toc: toc13,
     texts: txt13,
     demos: dm13,
   },
-  'docs/FrontEndCode/js/Reg/reg': {
+  'docs/FrontEndCode/js/String/String': {
     frontmatter: fm14,
     toc: toc14,
     texts: txt14,
     demos: dm14,
   },
-  'docs/FrontEndCode/css/index': {
+  'docs/FrontEndCode/InterviewTips/1': {
     frontmatter: fm15,
     toc: toc15,
     texts: txt15,
     demos: dm15,
   },
-  'docs/FrontEndCode/vue/index': {
+  'docs/FrontEndCode/InterviewTips/2': {
     frontmatter: fm16,
     toc: toc16,
     texts: txt16,
     demos: dm16,
   },
-  'docs/FrontEndCode/js/index': {
+  'docs/FrontEndCode/InterviewTips/3': {
     frontmatter: fm17,
     toc: toc17,
     texts: txt17,
     demos: dm17,
   },
-  'docs/FrontEndCode/index': {
+  'docs/FrontEndCode/InterviewTips/4': {
     frontmatter: fm18,
     toc: toc18,
     texts: txt18,
     demos: dm18,
   },
-  'docs/UI/index': {
+  'docs/FrontEndCode/InterviewTips/5': {
     frontmatter: fm19,
     toc: toc19,
     texts: txt19,
     demos: dm19,
   },
-  'docs/index': {
+  'docs/FrontEndCode/InterviewTips/6': {
     frontmatter: fm20,
     toc: toc20,
     texts: txt20,
     demos: dm20,
+  },
+  'docs/FrontEndCode/InterviewTips/7': {
+    frontmatter: fm21,
+    toc: toc21,
+    texts: txt21,
+    demos: dm21,
+  },
+  'docs/FrontEndCode/InterviewTips/8': {
+    frontmatter: fm22,
+    toc: toc22,
+    texts: txt22,
+    demos: dm22,
+  },
+  'docs/FrontEndCode/InterviewTips/9': {
+    frontmatter: fm23,
+    toc: toc23,
+    texts: txt23,
+    demos: dm23,
+  },
+  'docs/FrontEndCode/algorithm/index': {
+    frontmatter: fm24,
+    toc: toc24,
+    texts: txt24,
+    demos: dm24,
+  },
+  'docs/FrontEndCode/js/Array/Array': {
+    frontmatter: fm25,
+    toc: toc25,
+    texts: txt25,
+    demos: dm25,
+  },
+  'docs/FrontEndCode/promise/index': {
+    frontmatter: fm26,
+    toc: toc26,
+    texts: txt26,
+    demos: dm26,
+  },
+  'docs/FrontEndCode/js/util/util': {
+    frontmatter: fm27,
+    toc: toc27,
+    texts: txt27,
+    demos: dm27,
+  },
+  'docs/FrontEndCode/js/Reg/reg': {
+    frontmatter: fm28,
+    toc: toc28,
+    texts: txt28,
+    demos: dm28,
+  },
+  'docs/FrontEndCode/taro/index': {
+    frontmatter: fm29,
+    toc: toc29,
+    texts: txt29,
+    demos: dm29,
+  },
+  'docs/FrontEndCode/css/index': {
+    frontmatter: fm30,
+    toc: toc30,
+    texts: txt30,
+    demos: dm30,
+  },
+  'docs/FrontEndCode/vue/index': {
+    frontmatter: fm31,
+    toc: toc31,
+    texts: txt31,
+    demos: dm31,
+  },
+  'docs/FrontEndCode/js/index': {
+    frontmatter: fm32,
+    toc: toc32,
+    texts: txt32,
+    demos: dm32,
+  },
+  'docs/FrontEndCode/index': {
+    frontmatter: fm33,
+    toc: toc33,
+    texts: txt33,
+    demos: dm33,
+  },
+  'docs/UI/index': {
+    frontmatter: fm34,
+    toc: toc34,
+    texts: txt34,
+    demos: dm34,
+  },
+  'docs/index': {
+    frontmatter: fm35,
+    toc: toc35,
+    texts: txt35,
+    demos: dm35,
   },
 }
 

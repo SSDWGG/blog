@@ -2,12 +2,14 @@
 
 对于es6这些数组方法，如果内部存储的是值类型的数据，方法是不会改变原数组的，如果是引用类型的数据是会改变原数组的。
 
+<!-- 以下实现未考虑数组变异的情况 -->
 ### 实现forEach方法
 ```
 Array.prototype.myForEach = function(callback, context=window) {
   // this=>arr
   let self = this,  
       i = 0,
+      <!-- 请注意此处固定了初次数组长度，数组变异可能会导致一些bug-->
       len = self.length;
 
   for(;i<len;i++) {
