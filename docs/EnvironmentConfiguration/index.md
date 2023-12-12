@@ -1,4 +1,4 @@
-# 软件环境🌏
+# 配置工具🌏
 
 - [mac软件合集](https://github.com/jaywcjlove/awesome-mac)
 
