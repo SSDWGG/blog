@@ -4,9 +4,9 @@ hero:
   title: WGG BLOG
   description: WGG's front-end knowledge base
   actions:
-    - text: browse
-      link: /front-end-code/js
-    - text: View More
+    - text: Going！
+      link: /front-end-code
+    - text: View Author
       link: http://www.ssdwgg.cn/
 features:
   - title: 清晰的文档结构
