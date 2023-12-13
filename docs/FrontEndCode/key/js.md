@@ -1,3 +1,4 @@
+# javaScript重点
 
 ![JavaScript面试题.png](https://cdn.nlark.com/yuque/0/2021/png/1500604/1621500410361-1f8976b5-7b26-4803-b5c3-d0ec8cd819d8.png?x-oss-process=image%2Fresize%2Cw_1038)
 

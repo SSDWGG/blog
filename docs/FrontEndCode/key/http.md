@@ -1,4 +1,4 @@
-
+# http重点 
 ![计算机网络面试题.png](https://cdn.nlark.com/yuque/0/2021/png/1500604/1621606395878-ec50f847-ec2c-451b-885a-0baac77777e0.png?x-oss-process=image%2Fresize%2Cw_746)
 
 ## 一、HTTP协议
