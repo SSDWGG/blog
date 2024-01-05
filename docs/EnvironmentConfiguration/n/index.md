@@ -4,6 +4,8 @@
 [了解如何下载 n](https://www.jianshu.com/p/a927bcecdbc0)
 
 
+- 首先你需要安装nodejs环境  ： [进入官网傻瓜式安装即可](https://nodejs.org/en)
+
 - 安装 n  ：   ```npm install -g n```
 
 - 查看命令  ：``` n --help```
