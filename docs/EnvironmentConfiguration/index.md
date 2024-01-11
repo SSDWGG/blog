@@ -1,16 +1,16 @@
 # 配置工具🌏
 
-- [mac软件合集](https://github.com/jaywcjlove/awesome-mac)
+- [mac 软件合集](https://github.com/jaywcjlove/awesome-mac)
 
-- [切换node版本工具](./environment-configuration/n)
+- [切换 node 版本工具](./n)
   
-- [git](./environment-configuration/git)
+- [git](./git)
   
-- [部分常用命令](./environment-configuration/nginx)
+- [部分常用命令](./nginx)
 
-- [npm](./environment-configuration/npm)
+- [npm](./npm)
 
-- [科学上网](./environment-configuration/vpn)
+- [科学上网](./vpn)
 
-- [gpt注册](./environment-configuration/gpt)
+- [gpt 注册](./gpt)
   

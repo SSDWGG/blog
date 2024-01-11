@@ -10,7 +10,7 @@ function parseToMoney(num) {
 }
 ```
 
-### 电话号码
+### 手机号码
 ```
 function isPhone(tel) {
     var regx = /^1[34578]\d{9}$/;
@@ -38,3 +38,14 @@ function getCookie(name) {
   if (match) return unescape(match[2]);
 }
 ```
+### 电话号码
+```
+const isPhone = (s: string): boolean => {
+  return /^([0-9]{3,4}-)?[0-9]{7,8}$/.test(s);
+};
+```
+
+### URl地址
+```export const isURL = (s: string): boolean => {
+  return /^http[s]?:\/\/.*/.test(s);
+};```

@@ -1,6 +1,6 @@
 # blog
 
-[WGG_Blog](http://ssdwgg.cn:8697/)
+[WGG_Blog线上地址请点击](http://blog.ssdwgg.cn/)
 
 
 

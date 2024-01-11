@@ -24,5 +24,9 @@
 
 - [面试重点](./InterviewTips)
 
+- [工具函数](./util)
+
+- [设计模式](./Pattern)
+
 
 
