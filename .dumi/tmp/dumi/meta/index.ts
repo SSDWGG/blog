@@ -79,20 +79,23 @@ import { demos as dm74, frontmatter as fm74, toc as toc74, texts as txt74 } from
 import { demos as dm75, frontmatter as fm75, toc as toc75, texts as txt75 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/util/index.md?type=meta';
 import { demos as dm76, frontmatter as fm76, toc as toc76, texts as txt76 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/taro/index.md?type=meta';
 import { demos as dm77, frontmatter as fm77, toc as toc77, texts as txt77 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/css/index.md?type=meta';
-import { demos as dm78, frontmatter as fm78, toc as toc78, texts as txt78 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/vue/index.md?type=meta';
-import { demos as dm79, frontmatter as fm79, toc as toc79, texts as txt79 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/js/index.md?type=meta';
-import { demos as dm80, frontmatter as fm80, toc as toc80, texts as txt80 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/om/index.md?type=meta';
-import { demos as dm81, frontmatter as fm81, toc as toc81, texts as txt81 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/ui/index.md?type=meta';
+import { demos as dm78, frontmatter as fm78, toc as toc78, texts as txt78 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/doc/index.md?type=meta';
+import { demos as dm79, frontmatter as fm79, toc as toc79, texts as txt79 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/vue/index.md?type=meta';
+import { demos as dm80, frontmatter as fm80, toc as toc80, texts as txt80 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/js/index.md?type=meta';
+import { demos as dm81, frontmatter as fm81, toc as toc81, texts as txt81 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/om/index.md?type=meta';
 import { demos as dm82, frontmatter as fm82, toc as toc82, texts as txt82 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/index.md?type=meta';
 import { demos as dm83, frontmatter as fm83, toc as toc83, texts as txt83 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndBasic/js/js.md?type=meta';
 import { demos as dm84, frontmatter as fm84, toc as toc84, texts as txt84 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/FrontEndFrame/index.md?type=meta';
 import { demos as dm85, frontmatter as fm85, toc as toc85, texts as txt85 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/algorithm/index.md?type=meta';
 import { demos as dm86, frontmatter as fm86, toc as toc86, texts as txt86 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/interview/index.md?type=meta';
-import { demos as dm87, frontmatter as fm87, toc as toc87, texts as txt87 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/algorithm/index.md?type=meta';
-import { demos as dm88, frontmatter as fm88, toc as toc88, texts as txt88 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/code/index.md?type=meta';
-import { demos as dm89, frontmatter as fm89, toc as toc89, texts as txt89 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/css/index.md?type=meta';
-import { demos as dm90, frontmatter as fm90, toc as toc90, texts as txt90 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/index.md?type=meta';
-import { demos as dm91, frontmatter as fm91, toc as toc91, texts as txt91 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/index.md?type=meta';
+import { demos as dm87, frontmatter as fm87, toc as toc87, texts as txt87 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/ikun/ikunqqq/index.md?type=meta';
+import { demos as dm88, frontmatter as fm88, toc as toc88, texts as txt88 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/ikun/ikunstr/index.md?type=meta';
+import { demos as dm89, frontmatter as fm89, toc as toc89, texts as txt89 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/algorithm/index.md?type=meta';
+import { demos as dm90, frontmatter as fm90, toc as toc90, texts as txt90 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/code/index.md?type=meta';
+import { demos as dm91, frontmatter as fm91, toc as toc91, texts as txt91 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/css/index.md?type=meta';
+import { demos as dm92, frontmatter as fm92, toc as toc92, texts as txt92 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/ikun/index.md?type=meta';
+import { demos as dm93, frontmatter as fm93, toc as toc93, texts as txt93 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/pdf/index.md?type=meta';
+import { demos as dm94, frontmatter as fm94, toc as toc94, texts as txt94 } from '/Users/renshuaiweidemac/Desktop/localhostProject/blog/docs/index.md?type=meta';
 
 export { components } from './atoms';
 export { tabs } from './tabs';
@@ -566,25 +569,25 @@ export const filesMeta = {
     texts: txt77,
     demos: dm77,
   },
-  'docs/FrontEndFrame/vue/index': {
+  'docs/FrontEndFrame/doc/index': {
     frontmatter: fm78,
     toc: toc78,
     texts: txt78,
     demos: dm78,
   },
-  'docs/FrontEndBasic/js/index': {
+  'docs/FrontEndFrame/vue/index': {
     frontmatter: fm79,
     toc: toc79,
     texts: txt79,
     demos: dm79,
   },
-  'docs/FrontEndBasic/om/index': {
+  'docs/FrontEndBasic/js/index': {
     frontmatter: fm80,
     toc: toc80,
     texts: txt80,
     demos: dm80,
   },
-  'docs/FrontEndFrame/ui/index': {
+  'docs/FrontEndBasic/om/index': {
     frontmatter: fm81,
     toc: toc81,
     texts: txt81,
@@ -620,35 +623,53 @@ export const filesMeta = {
     texts: txt86,
     demos: dm86,
   },
-  'docs/algorithm/index': {
+  'docs/ikun/ikunqqq/index': {
     frontmatter: fm87,
     toc: toc87,
     texts: txt87,
     demos: dm87,
   },
-  'docs/pdf/code/index': {
+  'docs/ikun/ikunstr/index': {
     frontmatter: fm88,
     toc: toc88,
     texts: txt88,
     demos: dm88,
   },
-  'docs/pdf/css/index': {
+  'docs/algorithm/index': {
     frontmatter: fm89,
     toc: toc89,
     texts: txt89,
     demos: dm89,
   },
-  'docs/pdf/index': {
+  'docs/pdf/code/index': {
     frontmatter: fm90,
     toc: toc90,
     texts: txt90,
     demos: dm90,
   },
-  'docs/index': {
+  'docs/pdf/css/index': {
     frontmatter: fm91,
     toc: toc91,
     texts: txt91,
     demos: dm91,
+  },
+  'docs/ikun/index': {
+    frontmatter: fm92,
+    toc: toc92,
+    texts: txt92,
+    demos: dm92,
+  },
+  'docs/pdf/index': {
+    frontmatter: fm93,
+    toc: toc93,
+    texts: txt93,
+    demos: dm93,
+  },
+  'docs/index': {
+    frontmatter: fm94,
+    toc: toc94,
+    texts: txt94,
+    demos: dm94,
   },
 }
 
