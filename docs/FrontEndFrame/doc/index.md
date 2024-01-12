@@ -34,14 +34,25 @@ https://nutui.jd.com/#/
 ### uviewui
 https://www.uviewui.com/
 
+### animate.css
+
+https://animate.style/
 
 ## 框架工具文档
 
 ### vue
 https://cn.vuejs.org/guide/introduction.html
+### react
+https://react.docschina.org/
 
 ### uniapp
 https://uniapp.dcloud.net.cn/tutorial/
 
 ### ahooks
 https://ahooks.gitee.io/zh-CN/hooks/use-request/index
+### vite
+https://vitejs.cn/guide/#scaffolding-your-first-vite-project
+### ahooks
+https://ahooks.gitee.io/zh-CN/hooks/use-request/index
+### ant design pro
+https://pro.ant.design/zh-CN/docs/getting-started/
