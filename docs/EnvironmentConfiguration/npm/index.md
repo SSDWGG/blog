@@ -8,7 +8,11 @@ npm init -y 初始化一个文件项目的 packjson
 
 ### npm 源切换
 查看源地址：npm config get registry
+
 设置源地址：npm config set registry https://registry.npm.taobao.org/
+
 npm 官方源地址：https://registry.npmjs.org
+
 淘宝镜像源地址：https://registry.npm.taobao.org/
+
 淘宝镜像源地址（新）：https://registry.npmmirror.com
