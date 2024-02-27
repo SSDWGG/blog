@@ -20,7 +20,7 @@ function isPhone(tel) {
 ### 验证是否是邮箱
 ```
 function isEmail(email) {
-    var regx = /^([a-zA-Z0-9_\-])+@([a-zA-Z0-9_\-])+(\.[a-zA-Z0-9_\-])+$/;
+    var regx = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z]{2,4})+$/;
     return regx.test(email);
 }
 ```
