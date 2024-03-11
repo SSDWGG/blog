@@ -49,7 +49,7 @@ export default function DumiContextWrapper() {
       loading,
       setLoading,
       hostname: undefined,
-      themeConfig: {"footer":"<a href=\"http://www.ssdwgg.cn/\" target=\"_blank\" rel=\"noreferrer\">WGG</a> © 2023 design by <a href=\"http://www.ssdwgg.cn/\" target=\"_blank\" rel=\"noreferrer\">WGG</a> | Powered by <a href=\"https://d.umijs.org\" target=\"_blank\" rel=\"noreferrer\">dumi</a>","prefersColor":{"default":"auto","switch":true},"nprogress":true,"name":"WGG_Blog","logo":"/favicon.ico","rtl":true,"showLineNum":true,"socialLinks":{"github":"https://github.com/SSDWGG"},"hd":{"rules":[{"maxWidth":375,"mode":"vw","options":[100,750]},{"minWidth":376,"maxWidth":750,"mode":"vw","options":[100,1500]}]}},
+      themeConfig: {"footer":"<a href=\"http://www.ssdwgg.cn/\" target=\"_blank\" rel=\"noreferrer\">WGG</a> © 2023 design by <a href=\"http://www.ssdwgg.cn/\" target=\"_blank\" rel=\"noreferrer\">WGG</a> | Powered by <a href=\"https://d.umijs.org\" target=\"_blank\" rel=\"noreferrer\">dumi</a>","prefersColor":{"default":"auto","switch":true},"nprogress":true,"name":"WGG_Blog","logo":"/favicon.ico","rtl":true,"showLineNum":true,"lastUpdated":true,"editLink":true,"socialLinks":{"github":"https://github.com/SSDWGG"},"hd":{"rules":[{"maxWidth":375,"mode":"vw","options":[100,750]},{"minWidth":376,"maxWidth":750,"mode":"vw","options":[100,1500]}]}},
       _2_level_nav_available: true,
     }}>
       {outlet}

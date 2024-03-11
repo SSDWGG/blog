@@ -11,6 +11,10 @@
   "authors": [
     "wgg"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SSDWGG/blog"
+  },
   "license": "MIT",
   "commitlint": {
     "extends": [
