@@ -6,11 +6,11 @@
 
 - [caniuse依赖验证网](https://caniuse.com/)
   
-- [切换 node 版本工具](./n)
+- [切换 node 版本工具 n](./n)
   
 - [git](./git)
   
-- [部分常用命令](./nginx)
+- [部分常用nginx命令](./nginx)
 
 - [npm](./npm)
 
@@ -18,5 +18,7 @@
 
 - [gpt 注册](./gpt)
 
-- [各类素材合计网站](./aigei)
+- [素材合集网](./aigei)
+
+- [Homebrew](./Homebrew)
   

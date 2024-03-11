@@ -5,7 +5,7 @@ hero:
   description: WGG's front-end knowledge base
   actions:
     - text: Going！
-      link: /front-end-frame
+      link: /front-end-frame/rule
     - text: View Author
       link: http://ssdwgg.cn
 features:
