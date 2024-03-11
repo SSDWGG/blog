@@ -1,0 +1,37 @@
+name: NodeJS with Webpack
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x, 20.x]
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Use Node.js 20.11.1
+      uses: actions/setup-node@v3
+      with:
+        node-version: 20.11.1
+  # 1、生成静态文件
+    - name: Build
+      run: |
+        yarn
+        npm run build
+  # 2、部署到 GitHub Pages
+    - name: Deploy
+      uses: actions/checkout@v3
+      with:
+          ACCESS_TOKEN: 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
+          REPOSITORY_NAME: SSDWGG/ssdwgg.github.io
+          BRANCH: main
+          FOLDER: dist
+
