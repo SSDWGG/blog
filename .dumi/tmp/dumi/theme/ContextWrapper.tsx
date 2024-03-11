@@ -40,7 +40,7 @@ export default function DumiContextWrapper() {
 
   return (
     <SiteContext.Provider value={{
-      pkg: {"name":"blog","description":"wgg_blog","version":"0.0.1","license":"MIT","authors":["wgg"]},
+      pkg: {"name":"blog","description":"wgg_blog","version":"0.0.1","license":"MIT","repository":{"type":"git","url":"https://github.com/SSDWGG/blog"},"authors":["wgg"]},
       historyType: "browser",
       entryExports,
       demos,
