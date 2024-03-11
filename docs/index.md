@@ -5,9 +5,9 @@ hero:
   description: WGG's front-end knowledge base
   actions:
     - text: Going！
-      link: /front-end-code
+      link: /front-end-frame
     - text: View Author
-      link: http://www.ssdwgg.cn/
+      link: http://ssdwgg.cn
 features:
   - title: 清晰的文档结构
     emoji: 👾
