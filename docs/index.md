@@ -1,7 +1,7 @@
 ---
 title: WGG's front-end knowledge base
 hero:
-  title: WGG BLOG
+  title: WGG_BLOG
   description: WGG's front-end knowledge base
   actions:
     - text: Going！
