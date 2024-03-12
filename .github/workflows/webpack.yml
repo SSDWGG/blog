@@ -30,7 +30,6 @@ jobs:
     - name: Deploy
       uses: actions/checkout@v3
       with:
-      # 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
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           REPOSITORY_NAME: SSDWGG/ssdwgg.github.io
           BRANCH: main
