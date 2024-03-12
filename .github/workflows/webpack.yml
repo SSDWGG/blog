@@ -35,7 +35,6 @@ jobs:
           BRANCH: main
           FOLDER: dist
 
-
       # 3、同步到 服务器
       # - name: rsync deployments
       #   uses: burnett01/rsync-deployments@4.1
