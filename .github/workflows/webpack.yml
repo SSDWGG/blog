@@ -31,7 +31,7 @@ jobs:
       uses: actions/checkout@v3
       with:
           ACCESS_TOKEN: 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
-          REPOSITORY_NAME: https://github.com/SSDWGG/ssdwgg.github.io
+          REPOSITORY_NAME: ssdwgg.github.io
           BRANCH: main
           FOLDER: dist
 
