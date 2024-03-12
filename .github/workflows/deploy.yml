@@ -25,7 +25,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          ACCESS_TOKEN: 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
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           REPOSITORY_NAME: SSDWGG/ssdwgg.github.io
           BRANCH: main
           FOLDER: dist
