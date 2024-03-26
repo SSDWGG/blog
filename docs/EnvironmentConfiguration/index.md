@@ -3,7 +3,7 @@
 - [mac 软件合集](https://github.com/jaywcjlove/awesome-mac)
 
 - [ai正则](https://regex.ai/)
-- 
+
 - [在线可视化正则表达式测试器](https://pythonium.net/regex)
 
 - [caniuse依赖验证网](https://caniuse.com/)
